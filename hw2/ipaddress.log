@@ -1,0 +1,159 @@
+# IPython log file
+
+import ipaddress
+ipaddress.ip_addres('192.0.2.1')
+ipaddress.ip_address('192.0.2.1')
+#[Out]# IPv4Address('192.0.2.1')
+# Sun, 27 Sep 2020 16:15:21
+ipaddress.ip_address('192.0.2.1')
+#[Out]# IPv4Address('192.0.2.1')
+# Sun, 27 Sep 2020 16:15:32
+ipaddress.ip_address('2001"DB8::1')
+# Sun, 27 Sep 2020 16:15:41
+ipaddress.ip_address('2001:DB8::1')
+#[Out]# IPv6Address('2001:db8::1')
+# Sun, 27 Sep 2020 16:17:19
+ipaddress.ip_address(3221225985)
+#[Out]# IPv4Address('192.0.2.1')
+# Sun, 27 Sep 2020 16:18:30
+ipaddress.ip_address(4444444444444444444444444444444444444444444444444444444444444444444444444444444444444)
+# Sun, 27 Sep 2020 16:18:40
+ipaddress.ip_address(44444444444444444444444444444444444444444)
+# Sun, 27 Sep 2020 16:18:50
+ipaddress.ip_address(44444444444444444444444444)
+#[Out]# IPv6Address('::24:c37a:293c:777a:2c71:c71c')
+# Sun, 27 Sep 2020 16:19:23
+ipaddress.ip_address(1)
+#[Out]# IPv4Address('0.0.0.1')
+# Sun, 27 Sep 2020 16:19:37
+ipaddress.IPv4Address(1)
+#[Out]# IPv4Address('0.0.0.1')
+# Sun, 27 Sep 2020 16:19:42
+ipaddress.IPv6Address(1)
+#[Out]# IPv6Address('::1')
+# Sun, 27 Sep 2020 16:20:27
+ipaddress.ip_network('192.0.2.0/24')
+#[Out]# IPv4Network('192.0.2.0/24')
+# Sun, 27 Sep 2020 16:20:43
+ipaddress.ip_network('2001:db8:0/96')
+# Sun, 27 Sep 2020 16:20:50
+ipaddress.ip_network('2001:db8::0/96')
+#[Out]# IPv6Network('2001:db8::/96')
+# Sun, 27 Sep 2020 16:21:32
+ipaddress.ip_network('192.0.2.1/24')
+# Sun, 27 Sep 2020 16:21:39
+ipaddress.ip_network('192.0.2.1/24', strict=False)
+#[Out]# IPv4Network('192.0.2.0/24')
+# Sun, 27 Sep 2020 16:22:17
+ipaddress.ip_network(3221225985)
+#[Out]# IPv4Network('192.0.2.1/32')
+# Sun, 27 Sep 2020 16:22:33
+ipaddress.ip_network(44444444444444444444444444)
+#[Out]# IPv6Network('::24:c37a:293c:777a:2c71:c71c/128')
+# Sun, 27 Sep 2020 16:25:40
+ipaddress.ip_interface('192.0.2.1/24')
+#[Out]# IPv4Interface('192.0.2.1/24')
+# Sun, 27 Sep 2020 16:25:55
+ipaddress.ip_interface('2001:db8::0/96')
+#[Out]# IPv6Interface('2001:db8::/96')
+# Sun, 27 Sep 2020 16:26:51
+addr4 = ipaddress.ip_address('192.0.2.1')
+# Sun, 27 Sep 2020 16:27:08
+addr6 = ipaddress.ip_address('2001:db8::1')
+# Sun, 27 Sep 2020 16:27:13
+addr6.version
+#[Out]# 6
+# Sun, 27 Sep 2020 16:27:16
+addr4.version
+#[Out]# 4
+# Sun, 27 Sep 2020 16:28:03
+host6 = ipaddress.ip_interface('2001:db8::0/96')
+# Sun, 27 Sep 2020 16:28:09
+host6.network
+#[Out]# IPv6Network('2001:db8::/96')
+# Sun, 27 Sep 2020 16:28:32
+host4 = ipaddress.ip_interface('192.0.2.1/24')
+# Sun, 27 Sep 2020 16:28:36
+host4.network
+#[Out]# IPv4Network('192.0.2.0/24')
+# Sun, 27 Sep 2020 16:28:53
+net4 = ipaddress.ip_network('192.0.2.0/24')
+# Sun, 27 Sep 2020 16:28:59
+net4.num_addresses
+#[Out]# 256
+# Sun, 27 Sep 2020 16:29:28
+net6 = ipaddress.ip_network('2001:db8::0/96')
+# Sun, 27 Sep 2020 16:29:33
+net6.num_addresses
+#[Out]# 4294967296
+# Sun, 27 Sep 2020 16:29:53
+net4 = ipaddress.ip_network('192.0.2.0/24')
+# Sun, 27 Sep 2020 16:30:04
+for x in net4.hosts():
+    print(x)
+    
+# Sun, 27 Sep 2020 16:31:35
+net4 = ipaddress.ip_network('192.0.2.0/24')
+# Sun, 27 Sep 2020 16:31:40
+net4.netmask
+#[Out]# IPv4Address('255.255.255.0')
+# Sun, 27 Sep 2020 16:31:46
+net4.hostmask
+#[Out]# IPv4Address('0.0.0.255')
+# Sun, 27 Sep 2020 16:32:32
+net6 = ipaddress.ip_network('2001:db8::0/96')
+# Sun, 27 Sep 2020 16:32:36
+net6.netmask
+#[Out]# IPv6Address('ffff:ffff:ffff:ffff:ffff:ffff::')
+# Sun, 27 Sep 2020 16:32:39
+net6.hostmask
+#[Out]# IPv6Address('::ffff:ffff')
+# Sun, 27 Sep 2020 16:32:55
+addr6.exploded
+#[Out]# '2001:0db8:0000:0000:0000:0000:0000:0001'
+# Sun, 27 Sep 2020 16:33:00
+addr6.compressed
+#[Out]# '2001:db8::1'
+# Sun, 27 Sep 2020 16:33:07
+net6.exploded
+#[Out]# '2001:0db8:0000:0000:0000:0000:0000:0000/96'
+# Sun, 27 Sep 2020 16:33:12
+net6.compressed
+#[Out]# '2001:db8::/96'
+# Sun, 27 Sep 2020 16:33:31
+net4[1]
+#[Out]# IPv4Address('192.0.2.1')
+# Sun, 27 Sep 2020 16:33:38
+net4[-1]
+#[Out]# IPv4Address('192.0.2.255')
+# Sun, 27 Sep 2020 16:33:41
+net6[1]
+#[Out]# IPv6Address('2001:db8::1')
+# Sun, 27 Sep 2020 16:33:46
+net6[-1]
+#[Out]# IPv6Address('2001:db8::ffff:ffff')
+# Sun, 27 Sep 2020 16:37:15
+addr4 = ipadress.ip_address('192.0.2.1')
+# Sun, 27 Sep 2020 16:37:21
+addr4 = ipaddress.ip_address('192.0.2.1')
+# Sun, 27 Sep 2020 16:37:38
+addr4 in ipaddress.ip_network('192.0.2.0/24')
+#[Out]# True
+# Sun, 27 Sep 2020 16:37:47
+addr4 in ipaddress.ip_network('192.0.3.0/24')
+#[Out]# False
+# Sun, 27 Sep 2020 16:38:34
+ipaddress.ip_address('192.0.2.1') > ipaddress.ip_address('192.0.2.2')
+#[Out]# False
+# Sun, 27 Sep 2020 16:39:03
+addr4 = ipaddress.ip_address(192.0.2.1)
+# Sun, 27 Sep 2020 16:39:10
+addr4 = ipaddress.ip_address('192.0.2.1')
+# Sun, 27 Sep 2020 16:39:17
+str(addr4)
+#[Out]# '192.0.2.1'
+# Sun, 27 Sep 2020 16:39:22
+int(addr4)
+#[Out]# 3221225985
+# Sun, 27 Sep 2020 16:40:36
+exit()
