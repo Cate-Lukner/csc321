@@ -17,6 +17,43 @@ When I run `arp -a`, four interfaces output. Three of the four interfaces have s
 *What are the different devices connected to your home network? Can you identify what they are based on this information?*  
 I am connected to a coffee shop network, so my answer is reflective of this network. 
 
+The output:   
+```
+In [2]: netlayers.arp_table()
+Name  IP               MAC                Company
+  ---------------  -----------------  -----------------
+  169.254.255.255  ff:ff:ff:ff:ff:ff
+  224.0.0.22       01:00:5e:00:00:16
+  224.0.0.251      01:00:5e:00:00:fb
+  224.0.0.252      01:00:5e:00:00:fc
+  239.255.255.250  01:00:5e:7f:ff:fa
+  255.255.255.255  ff:ff:ff:ff:ff:ff
+  192.168.44.254   00:50:56:ff:7c:ad  VMware, Inc.
+  192.168.44.255   ff:ff:ff:ff:ff:ff
+  224.0.0.22       01:00:5e:00:00:16
+  224.0.0.251      01:00:5e:00:00:fb
+  224.0.0.252      01:00:5e:00:00:fc
+  239.255.255.250  01:00:5e:7f:ff:fa
+  255.255.255.255  ff:ff:ff:ff:ff:ff
+  192.168.2.1      00:50:f1:80:00:00  Intel Corporation
+  192.168.2.193    00:e1:8c:96:34:76  Intel Corporate
+  192.168.2.255    ff:ff:ff:ff:ff:ff
+  224.0.0.22       01:00:5e:00:00:16
+  224.0.0.251      01:00:5e:00:00:fb
+  224.0.0.252      01:00:5e:00:00:fc
+  239.255.255.250  01:00:5e:7f:ff:fa
+  255.255.255.255  ff:ff:ff:ff:ff:ff
+  192.168.197.254  00:50:56:e2:fd:c0  VMware, Inc.
+  192.168.197.255  ff:ff:ff:ff:ff:ff
+  224.0.0.22       01:00:5e:00:00:16
+  224.0.0.251      01:00:5e:00:00:fb
+  224.0.0.252      01:00:5e:00:00:fc
+  239.255.255.250  01:00:5e:7f:ff:fa
+  255.255.255.255  ff:ff:ff:ff:ff:ff
+```
+
+At this coffee shop there are multiple laptops, phones, and the coffee shop register connected. From this output information, it seems that there are multiple private devices under one of the three or four routers/switches since I see repeats of the same address (e.g. 224.0.0.22, 224.0.0.252). 
+
 ## Network
 *Run the following commands in your console.*
 ```
