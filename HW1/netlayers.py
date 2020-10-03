@@ -98,9 +98,9 @@ ping_re_macos = {
         fr' time=(?P<ms>\d+(?:\.\d+)?) ms'
     ), {'ms': float}),
     'totals': re_map(re.compile(
-        fr'(?P<sent>\d+) packets transmitted,'
-        fr' (?P<received>\d+) packets received,'
-        fr' (?P<lost>\d+(?:\.\d+))% packet loss'
+        r'(?P<sent>\d+) packets transmitted,'
+        r' (?P<received>\d+) packets received,'
+        r' (?P<lost>\d+(?:\.\d+))% packet loss'
     ), {'sent': int, 'received': int, 'lost': float}),
     'stats': re_map(re.compile(
         fr'round-trip min/avg/max/stddev ='
@@ -113,14 +113,14 @@ ping_re_macos = {
 
 ping_re_win = {
     'stats': re_map(re.compile(
-        fr'    Minimum = (?P<min>\d+(?:\.\d+)?)ms,'
-        fr' Maximum = (?P<max>\d+(?:\.\d+)?)ms,'
-        fr' Average = (?P<avg>\d+(?:\.\d+)?)ms',
+        r'    Minimum = (?P<min>\d+(?:\.\d+)?)ms,'
+        r' Maximum = (?P<max>\d+(?:\.\d+)?)ms,'
+        r' Average = (?P<avg>\d+(?:\.\d+)?)ms',
     ), {'min': float, 'max': float, 'avg': float}),
     'totals': re_map(re.compile(
-        fr'Packets: Sent = (?P<sent>\d+(?:\.\d+)?),'
-        fr' Received = (?P<received>\d+(?:\.\d+)?),'
-        fr' Lost = (?P<lost>\d+(?:\.\d+)?) (0% loss),'
+        r'Packets: Sent = (?P<sent>\d+(?:\.\d+)?),'
+        r' Received = (?P<received>\d+(?:\.\d+)?),'
+        r' Lost = (?P<lost>\d+(?:\.\d+)?) (0% loss),'
     ), {'sent': float, 'received': float, 'lost': float}),
 }
 
@@ -179,8 +179,12 @@ def arp_table():
     arp_items = get_arp()
     names, ips, macs, companies = _.pipe(
         arp_items,
-        _.map(lambda i: (i['name'], i['ip'], i['mac'],
-                         i['info'].get('company', ''))),
+        _.map(lambda i: (
+            i.get('name', ''),
+            i.get('ip', ''),
+            i.get('mac', ''),
+            i.get('info', {}).get('company', ''),
+        )),
         lambda items: zip(*items),
     )
     max_n, max_i, max_m, max_c = _.pipe(
