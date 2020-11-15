@@ -1,0 +1,96 @@
+PROBLEM 3: TASK VENTILLATOR
+
+Before -
+
+node00:
+root@node00:/# netstat
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 node00:5557             hw3_node01_1.hw3_:47708 TIME_WAIT  
+tcp        0      0 node00:44994            hw3_node02_1.hw3_n:5558 TIME_WAIT  
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   Path
+
+node01:
+root@node01:/# netstat
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   Path
+
+node02:
+root@node02:/# netstat
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 node02:5558             hw3_node01_1.hw3_:34020 TIME_WAIT  
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   Path
+
+
+During -
+
+node00:
+root@node00:/# netstat
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 node00:5557             hw3_node01_1.hw3_:48224 TIME_WAIT  
+tcp        0      0 node00:45428            hw3_node02_1.hw3_n:5558 TIME_WAIT  
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   Path
+
+node01:
+root@node01:/# netstat
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 node01:34456            hw3_node02_1.hw3_n:5558 ESTABLISHED
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   Path
+unix  3      [ ]         STREAM     CONNECTED     125231   
+unix  3      [ ]         STREAM     CONNECTED     125234   
+unix  3      [ ]         STREAM     CONNECTED     125230   
+unix  3      [ ]         STREAM     CONNECTED     125233   
+unix  3      [ ]         STREAM     CONNECTED     125235   
+unix  3      [ ]         STREAM     CONNECTED     125226   
+unix  3      [ ]         STREAM     CONNECTED     125232   
+unix  3      [ ]         STREAM     CONNECTED     125229   
+unix  3      [ ]         STREAM     CONNECTED     125227   
+unix  3      [ ]         STREAM     CONNECTED     125228  
+
+node02:
+root@node02:/# netstat
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 node02:5558             hw3_node01_1.hw3_:34456 ESTABLISHED
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   Path
+unix  3      [ ]         STREAM     CONNECTED     128098   
+unix  3      [ ]         STREAM     CONNECTED     128101   
+unix  3      [ ]         STREAM     CONNECTED     128100   
+unix  3      [ ]         STREAM     CONNECTED     128095   
+unix  3      [ ]         STREAM     CONNECTED     128096   
+unix  3      [ ]         STREAM     CONNECTED     128097   
+unix  3      [ ]         STREAM     CONNECTED     128094   
+unix  3      [ ]         STREAM     CONNECTED     128099  
+
+After -
+
+node00:
+root@node00:/# netstat
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   Path
+
+node01:
+root@node01:/# netstat
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   Path
+
+node02:
+root@node02:/# netstat
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   Path
