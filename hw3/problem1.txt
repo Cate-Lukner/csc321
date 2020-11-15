@@ -1,0 +1,72 @@
+PROBLEM 1: HELLO WORLD SERVER
+
+There are two services running. The server is running on node 00 and the client
+is running on node01.
+The network state before running the services:
+
+node00:
+root@node00:/# netstat
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   Path
+
+
+node01:
+root@node01:/# netstat
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   Path
+
+
+DURING:
+
+node00:
+root@node00:/# netstat
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 node00:5555             hw3_node01_1.hw3_:38840 ESTABLISHED
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   Path
+unix  3      [ ]         STREAM     CONNECTED     105177   
+unix  3      [ ]         STREAM     CONNECTED     105178   
+unix  3      [ ]         STREAM     CONNECTED     105173   
+unix  3      [ ]         STREAM     CONNECTED     105176   
+unix  3      [ ]         STREAM     CONNECTED     105175   
+unix  3      [ ]         STREAM     CONNECTED     105172   
+unix  3      [ ]         STREAM     CONNECTED     105171   
+unix  3      [ ]         STREAM     CONNECTED     105174 
+
+node01:
+root@node01:/# netstat
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 node01:38840            hw3_node00_1.hw3_n:5555 ESTABLISHED
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   Path
+unix  3      [ ]         STREAM     CONNECTED     102316   
+unix  3      [ ]         STREAM     CONNECTED     102311   
+unix  3      [ ]         STREAM     CONNECTED     102312   
+unix  3      [ ]         STREAM     CONNECTED     102310   
+unix  3      [ ]         STREAM     CONNECTED     102314   
+unix  3      [ ]         STREAM     CONNECTED     102315   
+unix  3      [ ]         STREAM     CONNECTED     102313   
+unix  3      [ ]         STREAM     CONNECTED     102317 
+
+AFTER:
+
+node00:
+root@node00:/# netstat
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   Path
+
+node01:
+root@node01:/# netstat
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 node01:38840            hw3_node00_1.hw3_n:5555 TIME_WAIT  
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   Path
