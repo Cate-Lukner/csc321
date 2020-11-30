@@ -1,0 +1,1099 @@
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	google.com
+Address: 216.58.194.78
+Name:	google.com
+Address: 2607:f8b0:4000:803::200e
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	youtube.com
+Address: 172.217.1.142
+Name:	youtube.com
+Address: 2607:f8b0:4000:817::200e
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	facebook.com
+Address: 31.13.93.35
+Name:	facebook.com
+Address: 2a03:2880:f134:183:face:b00c:0:25de
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	baidu.com
+Address: 220.181.38.148
+Name:	baidu.com
+Address: 39.156.69.79
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	yahoo.com
+Address: 74.6.231.21
+Name:	yahoo.com
+Address: 74.6.231.20
+Name:	yahoo.com
+Address: 98.137.11.164
+Name:	yahoo.com
+Address: 74.6.143.26
+Name:	yahoo.com
+Address: 74.6.143.25
+Name:	yahoo.com
+Address: 98.137.11.163
+Name:	yahoo.com
+Address: 2001:4998:44:3507::8000
+Name:	yahoo.com
+Address: 2001:4998:24:120d::1:1
+Name:	yahoo.com
+Address: 2001:4998:124:1507::f000
+Name:	yahoo.com
+Address: 2001:4998:24:120d::1:0
+Name:	yahoo.com
+Address: 2001:4998:124:1507::f001
+Name:	yahoo.com
+Address: 2001:4998:44:3507::8001
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	amazon.com
+Address: 176.32.103.205
+Name:	amazon.com
+Address: 176.32.98.166
+Name:	amazon.com
+Address: 205.251.242.103
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	wikipedia.org
+Address: 208.80.154.224
+Name:	wikipedia.org
+Address: 2620:0:861:ed1a::1
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	qq.com
+Address: 58.247.214.47
+Name:	qq.com
+Address: 58.250.137.36
+Name:	qq.com
+Address: 125.39.52.26
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	google.co.in
+Address: 172.217.1.131
+Name:	google.co.in
+Address: 2607:f8b0:4000:817::2003
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	twitter.com
+Address: 104.244.42.65
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	live.com
+Address: 204.79.197.212
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	taobao.com
+Address: 140.205.220.96
+Name:	taobao.com
+Address: 140.205.94.189
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	google.co.jp
+Address: 172.217.1.131
+Name:	google.co.jp
+Address: 2607:f8b0:4000:817::2003
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	bing.com
+Address: 204.79.197.200
+Name:	bing.com
+Address: 13.107.21.200
+Name:	bing.com
+Address: 2620:1ec:c11::200
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	instagram.com
+Address: 3.213.147.143
+Name:	instagram.com
+Address: 52.0.212.144
+Name:	instagram.com
+Address: 54.85.141.180
+Name:	instagram.com
+Address: 34.228.93.200
+Name:	instagram.com
+Address: 34.239.89.209
+Name:	instagram.com
+Address: 52.2.169.197
+Name:	instagram.com
+Address: 3.224.3.80
+Name:	instagram.com
+Address: 34.235.180.162
+Name:	instagram.com
+Address: 2406:da00:ff00::3da:38f
+Name:	instagram.com
+Address: 2406:da00:ff00::3447:df22
+Name:	instagram.com
+Address: 2406:da00:ff00::3653:bae1
+Name:	instagram.com
+Address: 2406:da00:ff00::2399:d616
+Name:	instagram.com
+Address: 2406:da00:ff00::36eb:b3c4
+Name:	instagram.com
+Address: 2406:da00:ff00::3650:6426
+Name:	instagram.com
+Address: 2406:da00:ff00::22c4:36d2
+Name:	instagram.com
+Address: 2406:da00:ff00::22ef:2786
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	weibo.com
+Address: 47.254.92.5
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	sina.com.cn
+Address: 123.125.104.150
+Name:	sina.com.cn
+Address: 49.7.37.133
+Name:	sina.com.cn
+Address: 123.126.55.41
+Name:	sina.com.cn
+Address: 123.126.45.205
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	linkedin.com
+Address: 108.174.10.10
+Name:	linkedin.com
+Address: 2620:109:c002::6cae:a0a
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	yahoo.co.jp
+Address: 182.22.59.229
+Name:	yahoo.co.jp
+Address: 183.79.135.206
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	msn.com
+Address: 13.82.28.61
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	vk.com
+Address: 87.240.137.158
+Name:	vk.com
+Address: 93.186.225.208
+Name:	vk.com
+Address: 87.240.139.194
+Name:	vk.com
+Address: 87.240.190.67
+Name:	vk.com
+Address: 87.240.190.72
+Name:	vk.com
+Address: 87.240.190.78
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	google.de
+Address: 172.217.6.163
+Name:	google.de
+Address: 2607:f8b0:4000:804::2003
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	YANDEX.ru
+Address: 77.88.55.66
+Name:	YANDEX.ru
+Address: 5.255.255.60
+Name:	YANDEX.ru
+Address: 77.88.55.70
+Name:	YANDEX.ru
+Address: 5.255.255.70
+Name:	YANDEX.ru
+Address: 2a02:6b8:a::a
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	hao123.com
+Address: 202.106.2.86
+Name:	hao123.com
+Address: 106.120.159.68
+Name:	hao123.com
+Address: 39.156.68.154
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	google.co.uk
+Address: 172.217.12.67
+Name:	google.co.uk
+Address: 2607:f8b0:4000:816::2003
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	reddit.com
+Address: 151.101.1.140
+Name:	reddit.com
+Address: 151.101.65.140
+Name:	reddit.com
+Address: 151.101.129.140
+Name:	reddit.com
+Address: 151.101.193.140
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	ebay.com
+Address: 66.135.196.249
+Name:	ebay.com
+Address: 66.135.195.175
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	google.fr
+Address: 216.58.194.35
+Name:	google.fr
+Address: 2607:f8b0:4000:802::2003
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	t.co
+Address: 104.244.42.197
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	tmall.com
+Address: 140.205.130.99
+Name:	tmall.com
+Address: 140.205.94.193
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	google.com.br
+Address: 172.217.6.163
+Name:	google.com.br
+Address: 2607:f8b0:4000:804::2003
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	360.cn
+Address: 36.110.213.10
+Name:	360.cn
+Address: 36.99.170.84
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	sohu.com
+Address: 211.159.191.18
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	amazon.co.jp
+Address: 52.119.168.48
+Name:	amazon.co.jp
+Address: 52.119.164.121
+Name:	amazon.co.jp
+Address: 52.119.161.5
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	pinterest.com
+Address: 151.101.128.84
+Name:	pinterest.com
+Address: 151.101.64.84
+Name:	pinterest.com
+Address: 151.101.0.84
+Name:	pinterest.com
+Address: 151.101.192.84
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	mail.ru
+Address: 94.100.180.201
+Name:	mail.ru
+Address: 217.69.139.200
+Name:	mail.ru
+Address: 217.69.139.202
+Name:	mail.ru
+Address: 94.100.180.200
+Name:	mail.ru
+Address: 2a00:1148:db00:0:b0b0::1
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	onclickads.net
+Address: 194.187.98.200
+Name:	onclickads.net
+Address: 194.187.98.144
+Name:	onclickads.net
+Address: 194.187.98.198
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	netflix.com
+Address: 52.73.161.171
+Name:	netflix.com
+Address: 34.198.43.9
+Name:	netflix.com
+Address: 52.7.1.122
+Name:	netflix.com
+Address: 107.21.29.216
+Name:	netflix.com
+Address: 23.22.19.201
+Name:	netflix.com
+Address: 54.210.135.111
+Name:	netflix.com
+Address: 54.174.34.188
+Name:	netflix.com
+Address: 54.175.17.240
+Name:	netflix.com
+Address: 2406:da00:ff00::3449:a1ab
+Name:	netflix.com
+Address: 2406:da00:ff00::36d1:dc93
+Name:	netflix.com
+Address: 2406:da00:ff00::369c:ba0e
+Name:	netflix.com
+Address: 2406:da00:ff00::36a5:102f
+Name:	netflix.com
+Address: 2406:da00:ff00::36d2:876f
+Name:	netflix.com
+Address: 2406:da00:ff00::6b15:1dd8
+Name:	netflix.com
+Address: 2406:da00:ff00::36ec:5dce
+Name:	netflix.com
+Address: 2406:da00:ff00::3657:6a8
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	google.it
+Address: 216.58.194.99
+Name:	google.it
+Address: 2607:f8b0:4000:80c::2003
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	google.ru
+Address: 172.217.12.67
+Name:	google.ru
+Address: 2607:f8b0:4000:816::2003
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	microsoft.com
+Address: 40.112.72.205
+Name:	microsoft.com
+Address: 104.215.148.63
+Name:	microsoft.com
+Address: 40.76.4.15
+Name:	microsoft.com
+Address: 13.77.161.179
+Name:	microsoft.com
+Address: 40.113.200.201
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	google.es
+Address: 172.217.9.3
+Name:	google.es
+Address: 2607:f8b0:4000:812::2003
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	wordpress.com
+Address: 192.0.78.9
+Name:	wordpress.com
+Address: 192.0.78.17
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	gmw.cn
+Address: 123.56.255.157
+Name:	gmw.cn
+Address: 2408:400a:38:400:df2e:c0f8:764e:7f21
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	tumblr.com
+Address: 74.114.154.17
+Name:	tumblr.com
+Address: 74.114.154.21
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	paypal.com
+Address: 64.4.250.36
+Name:	paypal.com
+Address: 64.4.250.37
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	blogspot.com
+Address: 172.217.6.137
+Name:	blogspot.com
+Address: 2607:f8b0:4000:80f::2009
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	imgur.com
+Address: 151.101.48.193
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	stackoverflow.com
+Address: 151.101.129.69
+Name:	stackoverflow.com
+Address: 151.101.193.69
+Name:	stackoverflow.com
+Address: 151.101.1.69
+Name:	stackoverflow.com
+Address: 151.101.65.69
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	aliexpress.com
+Address: 198.11.132.250
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	naver.com
+Address: 125.209.222.142
+Name:	naver.com
+Address: 223.130.195.200
+Name:	naver.com
+Address: 125.209.222.141
+Name:	naver.com
+Address: 223.130.195.95
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	ok.ru
+Address: 217.20.155.13
+Name:	ok.ru
+Address: 217.20.147.1
+Name:	ok.ru
+Address: 5.61.23.11
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	apple.com
+Address: 17.253.144.10
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	github.com
+Address: 140.82.114.4
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	google.com.mx
+Address: 172.217.9.3
+Name:	google.com.mx
+Address: 2607:f8b0:4000:812::2003
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	chinadaily.com.cn
+Address: 111.13.49.147
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	imdb.com
+Address: 52.94.228.167
+Name:	imdb.com
+Address: 52.94.225.248
+Name:	imdb.com
+Address: 52.94.237.74
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	google.co.kr
+Address: 172.217.14.163
+Name:	google.co.kr
+Address: 2607:f8b0:4000:806::2003
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	fc2.com
+Address: 199.48.210.151
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	jd.com
+Address: 120.52.148.118
+Name:	jd.com
+Address: 111.13.149.108
+Name:	jd.com
+Address: 118.193.98.63
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	blogger.com
+Address: 172.217.9.9
+Name:	blogger.com
+Address: 2607:f8b0:4000:812::2009
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	163.com
+Address: 123.58.180.8
+Name:	163.com
+Address: 123.58.180.7
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	google.ca
+Address: 172.217.9.131
+Name:	google.ca
+Address: 2607:f8b0:4000:813::2003
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	google.com.hk
+Address: 142.250.68.163
+Name:	google.com.hk
+Address: 2607:f8b0:4000:801::2003
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	whatsapp.com
+Address: 31.13.93.53
+Name:	whatsapp.com
+Address: 2a03:2880:f234:1c6:face:b00c:0:167
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	amazon.in
+Address: 52.95.116.115
+Name:	amazon.in
+Address: 52.95.120.67
+Name:	amazon.in
+Address: 54.239.33.92
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	office.com
+Address: 13.107.6.156
+Name:	office.com
+Address: 2620:1ec:a92::156
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	google.com.tr
+Address: 172.217.9.131
+Name:	google.com.tr
+Address: 2607:f8b0:4000:813::2003
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	tianya.cn
+Address: 124.225.65.154
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	google.co.id
+Address: 172.217.1.131
+Name:	google.co.id
+Address: 2607:f8b0:4000:817::2003
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	youku.com
+Address: 106.11.43.71
+Name:	youku.com
+Address: 2408:4001:f00::1af
+Name:	youku.com
+Address: 2408:4001:f10::8
+Name:	youku.com
+Address: 2408:4001:f00::3a
+Name:	youku.com
+Address: 2408:4001:f10::fd
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	rakuten.co.jp
+Address: 133.237.16.234
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	craigslist.org
+Address: 208.82.237.129
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	amazon.de
+Address: 54.239.39.102
+Name:	amazon.de
+Address: 52.95.120.34
+Name:	amazon.de
+Address: 176.32.108.185
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	nicovideo.jp
+Address: 133.152.43.29
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	google.pl
+Address: 172.217.9.3
+Name:	google.pl
+Address: 2607:f8b0:4000:812::2003
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+soso.com	canonical name = e.proxy.sogou.com.
+Name:	e.proxy.sogou.com
+Address: 118.191.216.42
+Name:	e.proxy.sogou.com
+Address: 119.28.109.132
+Name:	e.proxy.sogou.com
+Address: 118.191.216.57
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	bilibili.com
+Address: 139.159.241.37
+Name:	bilibili.com
+Address: 119.3.70.188
+Name:	bilibili.com
+Address: 120.92.174.135
+Name:	bilibili.com
+Address: 120.92.78.97
+Name:	bilibili.com
+Address: 110.43.34.66
+Name:	bilibili.com
+Address: 119.3.238.64
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	dropbox.com
+Address: 162.125.248.1
+Name:	dropbox.com
+Address: 2620:100:6040:1::a27d:f801
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	xinhuanet.com
+Address: 202.108.119.193
+Name:	xinhuanet.com
+Address: 202.108.119.194
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	outbrain.com
+Address: 192.82.210.254
+Name:	outbrain.com
+Address: 192.82.211.254
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	pixnet.net
+Address: 103.23.108.107
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	alibaba.com
+Address: 198.11.132.198
+Name:	alibaba.com
+Address: 205.204.101.142
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	alipay.com
+Address: 110.75.129.5
+Name:	alipay.com
+Address: 110.75.139.5
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	microsoftonline.com
+Address: 40.84.199.233
+Name:	microsoftonline.com
+Address: 52.178.167.109
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	google.com.tw
+Address: 216.58.194.35
+Name:	google.com.tw
+Address: 2607:f8b0:4000:802::2003
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	booking.com
+Address: 5.57.16.220
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+*** Can't find googleusercontent.com: No answer
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	google.com.au
+Address: 172.217.9.3
+Name:	google.com.au
+Address: 2607:f8b0:4000:812::2003
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	popads.net
+Address: 216.21.13.12
+Name:	popads.net
+Address: 216.21.13.13
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	cntv.cn
+Address: 202.108.8.151
+cntv.cn	canonical name = jump.cntv.cn.
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	zhihu.com
+Address: 103.41.167.234
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	amazon.co.uk
+Address: 54.239.34.171
+Name:	amazon.co.uk
+Address: 178.236.7.220
+Name:	amazon.co.uk
+Address: 54.239.33.58
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	diply.com
+Address: 151.101.129.131
+Name:	diply.com
+Address: 151.101.193.131
+Name:	diply.com
+Address: 151.101.1.131
+Name:	diply.com
+Address: 151.101.65.131
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	coccoc.com
+Address: 123.30.175.29
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	cnn.com
+Address: 151.101.129.67
+Name:	cnn.com
+Address: 151.101.193.67
+Name:	cnn.com
+Address: 151.101.65.67
+Name:	cnn.com
+Address: 151.101.1.67
+Name:	cnn.com
+Address: 2a04:4e42:400::323
+Name:	cnn.com
+Address: 2a04:4e42:200::323
+Name:	cnn.com
+Address: 2a04:4e42::323
+Name:	cnn.com
+Address: 2a04:4e42:600::323
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	bbc.co.uk
+Address: 151.101.0.81
+Name:	bbc.co.uk
+Address: 151.101.192.81
+Name:	bbc.co.uk
+Address: 151.101.64.81
+Name:	bbc.co.uk
+Address: 151.101.128.81
+Name:	bbc.co.uk
+Address: 2a04:4e42:200::81
+Name:	bbc.co.uk
+Address: 2a04:4e42:600::81
+Name:	bbc.co.uk
+Address: 2a04:4e42:400::81
+Name:	bbc.co.uk
+Address: 2a04:4e42::81
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	twitch.tv
+Address: 151.101.66.167
+Name:	twitch.tv
+Address: 151.101.130.167
+Name:	twitch.tv
+Address: 151.101.194.167
+Name:	twitch.tv
+Address: 151.101.2.167
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	wikia.com
+Address: 151.101.192.194
+Name:	wikia.com
+Address: 151.101.64.194
+Name:	wikia.com
+Address: 151.101.0.194
+Name:	wikia.com
+Address: 151.101.128.194
+Name:	wikia.com
+Address: 2a04:4e42:600::194
+Name:	wikia.com
+Address: 2a04:4e42::194
+Name:	wikia.com
+Address: 2a04:4e42:400::194
+Name:	wikia.com
+Address: 2a04:4e42:200::194
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	google.co.th
+Address: 172.217.2.227
+Name:	google.co.th
+Address: 2607:f8b0:4000:811::2003
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	google.com.ar
+Address: 172.217.1.227
+Name:	google.com.ar
+Address: 2607:f8b0:4000:80e::2003
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	go.com
+Address: 23.236.60.174
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	google.nl
+Address: 172.217.9.163
+Name:	google.nl
+Address: 2607:f8b0:4000:814::2003
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	ebay.co.uk
+Address: 66.135.196.249
+Name:	ebay.co.uk
+Address: 66.135.195.175
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	kat.cr
+Address: 91.195.241.137
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	globo.com
+Address: 186.192.90.5
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	google.com.ua
+Address: 216.58.194.35
+Name:	google.com.ua
+Address: 2607:f8b0:4000:802::2003
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	uol.com.br
+Address: 200.147.35.149
+Name:	uol.com.br
+Address: 2804:49c:3101:401:ffff:ffff:ffff:45
+Name:	uol.com.br
+Address: 2804:49c:3102:401:ffff:ffff:ffff:36
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	avito.ru
+Address: 185.89.12.132
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	google.com.co
+Address: 172.217.1.131
+Name:	google.com.co
+Address: 2607:f8b0:4000:817::2003
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	google.com.vn
+Address: 216.58.193.131
+Name:	google.com.vn
+Address: 2607:f8b0:4000:808::2003
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	google.com.ph
+Address: 216.58.193.131
+Name:	google.com.ph
+Address: 2607:f8b0:4000:808::2003
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	doubleclick.net
+Address: 172.217.1.238
+Name:	doubleclick.net
+Address: 2607:f8b0:4000:80e::200e
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	onet.pl
+Address: 213.180.141.140
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	googleadservices.com
+Address: 172.217.1.226
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	accuweather.com
+Address: 23.204.242.101
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+Name:	googleweblight.com
+Address: 172.217.9.1
+Name:	googleweblight.com
+Address: 2607:f8b0:4000:812::2001
+Server:		172.20.10.1
+Address:	172.20.10.1#53
+
+Non-authoritative answer:
+answers.yahoo.com	canonical name = any-media-router-abu1.prod.g03.yahoodns.net.
+Name:	any-media-router-abu1.prod.g03.yahoodns.net
+Address: 76.13.32.153
+Name:	any-media-router-abu1.prod.g03.yahoodns.net
+Address: 2001:4998:124:1704::9000
+Name:	any-media-router-abu1.prod.g03.yahoodns.net
+Address: 2001:4998:24:704::8000
+
