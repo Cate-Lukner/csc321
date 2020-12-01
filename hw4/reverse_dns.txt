@@ -1,53 +1,49 @@
-78.194.58.216.in-addr.arpa	name = dfw25s13-in-f78.1e100.net.
-78.194.58.216.in-addr.arpa	name = dfw25s13-in-f14.1e100.net.
-
-Authoritative answers can be found from:
-e.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.3.0.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw25s13-in-x0e.1e100.net.
-
-Authoritative answers can be found from:
-142.1.217.172.in-addr.arpa	name = dfw28s23-in-f14.1e100.net.
 142.1.217.172.in-addr.arpa	name = atl14s07-in-f142.1e100.net.
+142.1.217.172.in-addr.arpa	name = dfw28s23-in-f14.1e100.net.
 
 Authoritative answers can be found from:
 e.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.7.1.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw28s23-in-x0e.1e100.net.
 
 Authoritative answers can be found from:
-35.93.13.31.in-addr.arpa	name = edge-star-mini-shv-02-dfw5.facebook.com.
+174.68.250.142.in-addr.arpa	name = dfw25s41-in-f14.1e100.net.
 
 Authoritative answers can be found from:
-e.d.5.2.0.0.0.0.c.0.0.b.e.c.a.f.3.8.1.0.4.3.1.f.0.8.8.2.3.0.a.2.ip6.arpa	name = edge-star-mini6-shv-02-dfw5.facebook.com.
+e.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.2.1.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw28s02-in-x0e.1e100.net.
+
+Authoritative answers can be found from:
+35.19.240.157.in-addr.arpa	name = edge-star-mini-shv-01-dfw5.facebook.com.
+
+Authoritative answers can be found from:
+e.d.5.2.0.0.0.0.c.0.0.b.e.c.a.f.3.8.0.0.4.3.1.f.0.8.8.2.3.0.a.2.ip6.arpa	name = edge-star-mini6-shv-01-dfw5.facebook.com.
 
 Authoritative answers can be found from:
 ** server can't find 148.38.181.220.in-addr.arpa: NXDOMAIN
 ** server can't find 79.69.156.39.in-addr.arpa: NXDOMAIN
-21.231.6.74.in-addr.arpa	name = media-router-fp74.prod.media.vip.ne1.yahoo.com.
-
-Authoritative answers can be found from:
-20.231.6.74.in-addr.arpa	name = media-router-fp73.prod.media.vip.ne1.yahoo.com.
-
-Authoritative answers can be found from:
 164.11.137.98.in-addr.arpa	name = media-router-fp73.prod.media.vip.gq1.yahoo.com.
 
 Authoritative answers can be found from:
-26.143.6.74.in-addr.arpa	name = media-router-fp74.prod.media.vip.bf1.yahoo.com.
+21.231.6.74.in-addr.arpa	name = media-router-fp74.prod.media.vip.ne1.yahoo.com.
 
 Authoritative answers can be found from:
 25.143.6.74.in-addr.arpa	name = media-router-fp73.prod.media.vip.bf1.yahoo.com.
 
 Authoritative answers can be found from:
+20.231.6.74.in-addr.arpa	name = media-router-fp73.prod.media.vip.ne1.yahoo.com.
+
+Authoritative answers can be found from:
+26.143.6.74.in-addr.arpa	name = media-router-fp74.prod.media.vip.bf1.yahoo.com.
+
+Authoritative answers can be found from:
 163.11.137.98.in-addr.arpa	name = media-router-fp74.prod.media.vip.gq1.yahoo.com.
 
 Authoritative answers can be found from:
-0.0.0.8.0.0.0.0.0.0.0.0.0.0.0.0.7.0.5.3.4.4.0.0.8.9.9.4.1.0.0.2.ip6.arpa	name = media-router-fp73.prod.media.vip.ne1.yahoo.com.
-
-Authoritative answers can be found from:
-1.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.d.0.2.1.4.2.0.0.8.9.9.4.1.0.0.2.ip6.arpa	name = media-router-fp74.prod.media.vip.gq1.yahoo.com.
+0.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.d.0.2.1.4.2.0.0.8.9.9.4.1.0.0.2.ip6.arpa	name = media-router-fp73.prod.media.vip.gq1.yahoo.com.
 
 Authoritative answers can be found from:
 0.0.0.f.0.0.0.0.0.0.0.0.0.0.0.0.7.0.5.1.4.2.1.0.8.9.9.4.1.0.0.2.ip6.arpa	name = media-router-fp73.prod.media.vip.bf1.yahoo.com.
 
 Authoritative answers can be found from:
-0.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.d.0.2.1.4.2.0.0.8.9.9.4.1.0.0.2.ip6.arpa	name = media-router-fp73.prod.media.vip.gq1.yahoo.com.
+1.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.d.0.2.1.4.2.0.0.8.9.9.4.1.0.0.2.ip6.arpa	name = media-router-fp74.prod.media.vip.gq1.yahoo.com.
 
 Authoritative answers can be found from:
 1.0.0.f.0.0.0.0.0.0.0.0.0.0.0.0.7.0.5.1.4.2.1.0.8.9.9.4.1.0.0.2.ip6.arpa	name = media-router-fp74.prod.media.vip.bf1.yahoo.com.
@@ -56,40 +52,44 @@ Authoritative answers can be found from:
 1.0.0.8.0.0.0.0.0.0.0.0.0.0.0.0.7.0.5.3.4.4.0.0.8.9.9.4.1.0.0.2.ip6.arpa	name = media-router-fp74.prod.media.vip.ne1.yahoo.com.
 
 Authoritative answers can be found from:
-** server can't find 205.103.32.176.in-addr.arpa: NXDOMAIN
+0.0.0.8.0.0.0.0.0.0.0.0.0.0.0.0.7.0.5.3.4.4.0.0.8.9.9.4.1.0.0.2.ip6.arpa	name = media-router-fp73.prod.media.vip.ne1.yahoo.com.
+
+Authoritative answers can be found from:
 ** server can't find 166.98.32.176.in-addr.arpa: NXDOMAIN
+** server can't find 205.103.32.176.in-addr.arpa: NXDOMAIN
 103.242.251.205.in-addr.arpa	name = s3-console-us-standard.console.aws.amazon.com.
 
 Authoritative answers can be found from:
-224.154.80.208.in-addr.arpa	name = text-lb.eqiad.wikimedia.org.
+224.153.80.208.in-addr.arpa	name = text-lb.codfw.wikimedia.org.
 
 Authoritative answers can be found from:
-1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.a.1.d.e.1.6.8.0.0.0.0.0.0.2.6.2.ip6.arpa	name = text-lb.eqiad.wikimedia.org.
+1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.a.1.d.e.0.6.8.0.0.0.0.0.0.2.6.2.ip6.arpa	name = text-lb.codfw.wikimedia.org.
 
 Authoritative answers can be found from:
-** server can't find 47.214.247.58.in-addr.arpa: NXDOMAIN
 ** server can't find 36.137.250.58.in-addr.arpa: NXDOMAIN
 26.52.39.125.in-addr.arpa	name = no-data.
 
 Authoritative answers can be found from:
-131.1.217.172.in-addr.arpa	name = dfw28s23-in-f3.1e100.net.
-131.1.217.172.in-addr.arpa	name = atl14s07-in-f131.1e100.net.
+** server can't find 47.214.247.58.in-addr.arpa: NXDOMAIN
+227.1.217.172.in-addr.arpa	name = lax17s02-in-f3.1e100.net.
+227.1.217.172.in-addr.arpa	name = dfw25s25-in-f3.1e100.net.
 
 Authoritative answers can be found from:
-3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.7.1.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw28s23-in-x03.1e100.net.
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.e.0.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw25s25-in-x03.1e100.net.
 
 Authoritative answers can be found from:
-** server can't find 65.42.244.104.in-addr.arpa: SERVFAIL
+;; Got SERVFAIL reply from 192.168.0.1, trying next server
+** server can't find 129.42.244.104.in-addr.arpa: SERVFAIL
 212.197.79.204.in-addr.arpa	name = a-0010.a-msedge.net.
 
 Authoritative answers can be found from:
-** server can't find 96.220.205.140.in-addr.arpa: NXDOMAIN
 ** server can't find 189.94.205.140.in-addr.arpa: NXDOMAIN
-131.1.217.172.in-addr.arpa	name = dfw28s23-in-f3.1e100.net.
-131.1.217.172.in-addr.arpa	name = atl14s07-in-f131.1e100.net.
+** server can't find 96.220.205.140.in-addr.arpa: NXDOMAIN
+131.194.58.216.in-addr.arpa	name = dfw06s49-in-f131.1e100.net.
+131.194.58.216.in-addr.arpa	name = dfw06s49-in-f3.1e100.net.
 
 Authoritative answers can be found from:
-3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.7.1.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw28s23-in-x03.1e100.net.
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.d.0.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw06s49-in-x03.1e100.net.
 
 Authoritative answers can be found from:
 200.197.79.204.in-addr.arpa	name = a-0001.a-msedge.net.
@@ -97,43 +97,43 @@ Authoritative answers can be found from:
 Authoritative answers can be found from:
 ** server can't find 200.21.107.13.in-addr.arpa: NXDOMAIN
 ** server can't find 0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.1.c.0.c.e.1.0.0.2.6.2.ip6.arpa: NXDOMAIN
-143.147.213.3.in-addr.arpa	name = ec2-3-213-147-143.compute-1.amazonaws.com.
+81.173.238.34.in-addr.arpa	name = ec2-34-238-173-81.compute-1.amazonaws.com.
 
 Authoritative answers can be found from:
-144.212.0.52.in-addr.arpa	name = ec2-52-0-212-144.compute-1.amazonaws.com.
+222.240.199.34.in-addr.arpa	name = ec2-34-199-240-222.compute-1.amazonaws.com.
 
 Authoritative answers can be found from:
-180.141.85.54.in-addr.arpa	name = ec2-54-85-141-180.compute-1.amazonaws.com.
+214.71.45.52.in-addr.arpa	name = ec2-52-45-71-214.compute-1.amazonaws.com.
 
 Authoritative answers can be found from:
-200.93.228.34.in-addr.arpa	name = ec2-34-228-93-200.compute-1.amazonaws.com.
+158.3.173.35.in-addr.arpa	name = ec2-35-173-3-158.compute-1.amazonaws.com.
 
 Authoritative answers can be found from:
-209.89.239.34.in-addr.arpa	name = ec2-34-239-89-209.compute-1.amazonaws.com.
+253.167.173.35.in-addr.arpa	name = ec2-35-173-167-253.compute-1.amazonaws.com.
 
 Authoritative answers can be found from:
-197.169.2.52.in-addr.arpa	name = ec2-52-2-169-197.compute-1.amazonaws.com.
+179.133.227.34.in-addr.arpa	name = ec2-34-227-133-179.compute-1.amazonaws.com.
 
 Authoritative answers can be found from:
-80.3.224.3.in-addr.arpa	name = ec2-3-224-3-80.compute-1.amazonaws.com.
+137.111.223.3.in-addr.arpa	name = ec2-3-223-111-137.compute-1.amazonaws.com.
 
 Authoritative answers can be found from:
-162.180.235.34.in-addr.arpa	name = ec2-34-235-180-162.compute-1.amazonaws.com.
+79.131.23.52.in-addr.arpa	name = ec2-52-23-131-79.compute-1.amazonaws.com.
 
 Authoritative answers can be found from:
-** server can't find f.8.3.0.a.d.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa: NXDOMAIN
-** server can't find 2.2.f.d.7.4.4.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa: NXDOMAIN
-** server can't find 1.e.a.b.3.5.6.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa: NXDOMAIN
-** server can't find 6.1.6.d.9.9.3.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa: NXDOMAIN
-** server can't find 4.c.3.b.b.e.6.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa: NXDOMAIN
-** server can't find 6.2.4.6.0.5.6.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa: NXDOMAIN
-** server can't find 2.d.6.3.4.c.2.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa: NXDOMAIN
-** server can't find 6.8.7.2.f.e.2.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa: NXDOMAIN
+** server can't find f.7.a.4.a.c.4.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa: NXDOMAIN
+** server can't find d.c.6.e.1.0.4.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa: NXDOMAIN
+** server can't find d.2.2.f.6.d.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa: NXDOMAIN
+** server can't find 4.f.b.0.9.9.3.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa: NXDOMAIN
+** server can't find d.1.a.d.0.d.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa: NXDOMAIN
+** server can't find 9.3.6.3.8.c.4.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa: NXDOMAIN
+** server can't find b.9.d.5.b.e.2.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa: NXDOMAIN
+** server can't find 1.2.2.b.9.d.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa: NXDOMAIN
 ** server can't find 5.92.254.47.in-addr.arpa: NXDOMAIN
-** server can't find 150.104.125.123.in-addr.arpa: NXDOMAIN
-** server can't find 133.37.7.49.in-addr.arpa: NXDOMAIN
 ** server can't find 41.55.126.123.in-addr.arpa: NXDOMAIN
+** server can't find 150.104.125.123.in-addr.arpa: NXDOMAIN
 ** server can't find 205.45.126.123.in-addr.arpa: NXDOMAIN
+** server can't find 133.37.7.49.in-addr.arpa: NXDOMAIN
 10.10.174.108.in-addr.arpa	name = 108-174-10-10.fwd.linkedin.com.
 
 Authoritative answers can be found from:
@@ -148,6 +148,12 @@ Authoritative answers can be found from:
 158.137.240.87.in-addr.arpa	name = srv158-137-240-87.vk.com.
 
 Authoritative answers can be found from:
+194.139.240.87.in-addr.arpa	name = srv194-139-240-87.vk.com.
+
+Authoritative answers can be found from:
+67.190.240.87.in-addr.arpa	name = srv67-190-240-87.vk.com.
+
+Authoritative answers can be found from:
 
 Authoritative answers can be found from:
 225.186.93.in-addr.arpa
@@ -158,168 +164,163 @@ Authoritative answers can be found from:
 	retry = 600
 	expire = 1209600
 	minimum = 10800
-194.139.240.87.in-addr.arpa	name = srv194-139-240-87.vk.com.
-
-Authoritative answers can be found from:
-67.190.240.87.in-addr.arpa	name = srv67-190-240-87.vk.com.
+78.190.240.87.in-addr.arpa	name = srv78-190-240-87.vk.com.
 
 Authoritative answers can be found from:
 72.190.240.87.in-addr.arpa	name = srv72-190-240-87.vk.com.
 
 Authoritative answers can be found from:
-78.190.240.87.in-addr.arpa	name = srv78-190-240-87.vk.com.
-
-Authoritative answers can be found from:
-163.6.217.172.in-addr.arpa	name = dfw25s17-in-f163.1e100.net.
-163.6.217.172.in-addr.arpa	name = dfw25s17-in-f3.1e100.net.
-
-Authoritative answers can be found from:
-3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.4.0.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw25s17-in-x03.1e100.net.
-
-Authoritative answers can be found from:
-66.55.88.77.in-addr.arpa	name = yandex.ru.
-
-Authoritative answers can be found from:
-60.255.255.5.in-addr.arpa	name = yandex.ru.
-
-Authoritative answers can be found from:
-70.55.88.77.in-addr.arpa	name = yandex.ru.
-
-Authoritative answers can be found from:
-70.255.255.5.in-addr.arpa	name = yandex.ru.
-
-Authoritative answers can be found from:
-a.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.a.0.0.0.8.b.6.0.2.0.a.2.ip6.arpa	name = yandex.ru.
-
-Authoritative answers can be found from:
-** server can't find 86.2.106.202.in-addr.arpa: NXDOMAIN
-** server can't find 68.159.120.106.in-addr.arpa: NXDOMAIN
-** server can't find 154.68.156.39.in-addr.arpa: NXDOMAIN
-67.12.217.172.in-addr.arpa	name = dfw28s05-in-f3.1e100.net.
-
-Authoritative answers can be found from:
-3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.6.1.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw28s05-in-x03.1e100.net.
-
-Authoritative answers can be found from:
-** server can't find 140.1.101.151.in-addr.arpa: NXDOMAIN
-** server can't find 140.65.101.151.in-addr.arpa: NXDOMAIN
-** server can't find 140.129.101.151.in-addr.arpa: NXDOMAIN
-** server can't find 140.193.101.151.in-addr.arpa: NXDOMAIN
-249.196.135.66.in-addr.arpa	name = ru.ebay.com.
-
-Authoritative answers can be found from:
-175.195.135.66.in-addr.arpa	name = ru.ebay.com.
-
-Authoritative answers can be found from:
-35.194.58.216.in-addr.arpa	name = dfw25s12-in-f35.1e100.net.
-35.194.58.216.in-addr.arpa	name = dfw25s12-in-f3.1e100.net.
-
-Authoritative answers can be found from:
-3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.2.0.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw25s12-in-x03.1e100.net.
-
-Authoritative answers can be found from:
-** server can't find 197.42.244.104.in-addr.arpa: SERVFAIL
-** server can't find 99.130.205.140.in-addr.arpa: NXDOMAIN
-** server can't find 193.94.205.140.in-addr.arpa: NXDOMAIN
-163.6.217.172.in-addr.arpa	name = dfw25s17-in-f163.1e100.net.
-163.6.217.172.in-addr.arpa	name = dfw25s17-in-f3.1e100.net.
-
-Authoritative answers can be found from:
-3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.4.0.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw25s17-in-x03.1e100.net.
-
-Authoritative answers can be found from:
-** server can't find 10.213.110.36.in-addr.arpa: SERVFAIL
-** server can't find 84.170.99.36.in-addr.arpa: SERVFAIL
-** server can't find 18.191.159.211.in-addr.arpa: NXDOMAIN
-** server can't find 48.168.119.52.in-addr.arpa: NXDOMAIN
-** server can't find 121.164.119.52.in-addr.arpa: NXDOMAIN
-** server can't find 5.161.119.52.in-addr.arpa: NXDOMAIN
-** server can't find 84.128.101.151.in-addr.arpa: NXDOMAIN
-** server can't find 84.64.101.151.in-addr.arpa: NXDOMAIN
-** server can't find 84.0.101.151.in-addr.arpa: NXDOMAIN
-** server can't find 84.192.101.151.in-addr.arpa: NXDOMAIN
-201.180.100.94.in-addr.arpa	name = mail.ru.
-
-Authoritative answers can be found from:
-200.139.69.217.in-addr.arpa	name = mail.ru.
-
-Authoritative answers can be found from:
-202.139.69.217.in-addr.arpa	name = mail.ru.
-
-Authoritative answers can be found from:
-200.180.100.94.in-addr.arpa	name = mail.ru.
-
-Authoritative answers can be found from:
-1.0.0.0.0.0.0.0.0.0.0.0.0.b.0.b.0.0.0.0.0.0.b.d.8.4.1.1.0.0.a.2.ip6.arpa	name = mail.ru.
-
-Authoritative answers can be found from:
-200.98.187.194.in-addr.arpa	name = 194.187.98.200.webazilla.com.
-
-Authoritative answers can be found from:
-144.98.187.194.in-addr.arpa	name = 194.187.98.144.webazilla.com.
-
-Authoritative answers can be found from:
-198.98.187.194.in-addr.arpa	name = 194.187.98.198.webazilla.com.
-
-Authoritative answers can be found from:
-171.161.73.52.in-addr.arpa	name = ec2-52-73-161-171.compute-1.amazonaws.com.
-
-Authoritative answers can be found from:
-9.43.198.34.in-addr.arpa	name = ec2-34-198-43-9.compute-1.amazonaws.com.
-
-Authoritative answers can be found from:
-122.1.7.52.in-addr.arpa	name = ec2-52-7-1-122.compute-1.amazonaws.com.
-
-Authoritative answers can be found from:
-216.29.21.107.in-addr.arpa	name = ec2-107-21-29-216.compute-1.amazonaws.com.
-
-Authoritative answers can be found from:
-201.19.22.23.in-addr.arpa	name = ec2-23-22-19-201.compute-1.amazonaws.com.
-
-Authoritative answers can be found from:
-111.135.210.54.in-addr.arpa	name = ec2-54-210-135-111.compute-1.amazonaws.com.
-
-Authoritative answers can be found from:
-188.34.174.54.in-addr.arpa	name = ec2-54-174-34-188.compute-1.amazonaws.com.
-
-Authoritative answers can be found from:
-240.17.175.54.in-addr.arpa	name = ec2-54-175-17-240.compute-1.amazonaws.com.
-
-Authoritative answers can be found from:
-** server can't find b.a.1.a.9.4.4.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa: NXDOMAIN
-** server can't find 3.9.c.d.1.d.6.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa: NXDOMAIN
-** server can't find e.0.a.b.c.9.6.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa: NXDOMAIN
-** server can't find f.2.0.1.5.a.6.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa: NXDOMAIN
-** server can't find f.6.7.8.2.d.6.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa: NXDOMAIN
-** server can't find 8.d.d.1.5.1.b.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa: NXDOMAIN
-** server can't find e.c.d.5.c.e.6.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa: NXDOMAIN
-** server can't find 8.a.6.0.7.5.6.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa: NXDOMAIN
-99.194.58.216.in-addr.arpa	name = dfw06s48-in-f99.1e100.net.
-99.194.58.216.in-addr.arpa	name = dfw06s48-in-f3.1e100.net.
-
-Authoritative answers can be found from:
-3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.c.0.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw06s48-in-x03.1e100.net.
-
-Authoritative answers can be found from:
-67.12.217.172.in-addr.arpa	name = dfw28s05-in-f3.1e100.net.
-
-Authoritative answers can be found from:
-3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.6.1.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw28s05-in-x03.1e100.net.
-
-Authoritative answers can be found from:
-** server can't find 205.72.112.40.in-addr.arpa: NXDOMAIN
-** server can't find 63.148.215.104.in-addr.arpa: NXDOMAIN
-** server can't find 15.4.76.40.in-addr.arpa: NXDOMAIN
-** server can't find 179.161.77.13.in-addr.arpa: NXDOMAIN
-** server can't find 201.200.113.40.in-addr.arpa: NXDOMAIN
 3.9.217.172.in-addr.arpa	name = dfw28s02-in-f3.1e100.net.
 
 Authoritative answers can be found from:
 3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.2.1.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw28s02-in-x03.1e100.net.
 
 Authoritative answers can be found from:
-** server can't find 9.78.0.192.in-addr.arpa: NXDOMAIN
+5.255.255.5.in-addr.arpa	name = yandex.ru.
+
+Authoritative answers can be found from:
+80.55.88.77.in-addr.arpa	name = yandex.ru.
+
+Authoritative answers can be found from:
+88.255.255.5.in-addr.arpa	name = yandex.ru.
+
+Authoritative answers can be found from:
+88.55.88.77.in-addr.arpa	name = yandex.ru.
+
+Authoritative answers can be found from:
+a.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.a.0.0.0.8.b.6.0.2.0.a.2.ip6.arpa	name = yandex.ru.
+
+Authoritative answers can be found from:
+** server can't find 86.2.106.202.in-addr.arpa: NXDOMAIN
+;; Got SERVFAIL reply from 192.168.0.1, trying next server
+** server can't find 154.68.156.39.in-addr.arpa: NXDOMAIN
+** server can't find 68.159.120.106.in-addr.arpa: NXDOMAIN
+35.12.217.172.in-addr.arpa	name = dfw28s04-in-f3.1e100.net.
+
+Authoritative answers can be found from:
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.5.1.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw28s04-in-x03.1e100.net.
+
+Authoritative answers can be found from:
+** server can't find 140.65.101.151.in-addr.arpa: NXDOMAIN
+** server can't find 140.193.101.151.in-addr.arpa: NXDOMAIN
+** server can't find 140.129.101.151.in-addr.arpa: NXDOMAIN
+** server can't find 140.1.101.151.in-addr.arpa: NXDOMAIN
+175.195.135.66.in-addr.arpa	name = ru.ebay.com.
+
+Authoritative answers can be found from:
+249.196.135.66.in-addr.arpa	name = ru.ebay.com.
+
+Authoritative answers can be found from:
+227.2.217.172.in-addr.arpa	name = dfw28s01-in-f3.1e100.net.
+
+Authoritative answers can be found from:
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.1.1.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw28s01-in-x03.1e100.net.
+
+Authoritative answers can be found from:
+;; Got SERVFAIL reply from 192.168.0.1, trying next server
+** server can't find 197.42.244.104.in-addr.arpa: SERVFAIL
+** server can't find 99.130.205.140.in-addr.arpa: NXDOMAIN
+** server can't find 193.94.205.140.in-addr.arpa: NXDOMAIN
+67.194.58.216.in-addr.arpa	name = dfw25s13-in-f67.1e100.net.
+67.194.58.216.in-addr.arpa	name = dfw25s13-in-f3.1e100.net.
+
+Authoritative answers can be found from:
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.3.0.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw25s13-in-x03.1e100.net.
+
+Authoritative answers can be found from:
+;; Got SERVFAIL reply from 192.168.0.1, trying next server
+** server can't find 10.213.110.36.in-addr.arpa: SERVFAIL
+;; Got SERVFAIL reply from 192.168.0.1, trying next server
+** server can't find 84.170.99.36.in-addr.arpa: SERVFAIL
+** server can't find 18.191.159.211.in-addr.arpa: NXDOMAIN
+** server can't find 121.164.119.52.in-addr.arpa: NXDOMAIN
+** server can't find 48.168.119.52.in-addr.arpa: NXDOMAIN
+** server can't find 5.161.119.52.in-addr.arpa: NXDOMAIN
+** server can't find 84.64.101.151.in-addr.arpa: NXDOMAIN
+** server can't find 84.128.101.151.in-addr.arpa: NXDOMAIN
+** server can't find 84.0.101.151.in-addr.arpa: NXDOMAIN
+** server can't find 84.192.101.151.in-addr.arpa: NXDOMAIN
+202.139.69.217.in-addr.arpa	name = mail.ru.
+
+Authoritative answers can be found from:
+200.180.100.94.in-addr.arpa	name = mail.ru.
+
+Authoritative answers can be found from:
+200.139.69.217.in-addr.arpa	name = mail.ru.
+
+Authoritative answers can be found from:
+201.180.100.94.in-addr.arpa	name = mail.ru.
+
+Authoritative answers can be found from:
+1.0.0.0.0.0.0.0.0.0.0.0.0.b.0.b.0.0.0.0.0.0.b.d.8.4.1.1.0.0.a.2.ip6.arpa	name = mail.ru.
+
+Authoritative answers can be found from:
+198.98.187.194.in-addr.arpa	name = 194.187.98.198.webazilla.com.
+
+Authoritative answers can be found from:
+144.98.187.194.in-addr.arpa	name = 194.187.98.144.webazilla.com.
+
+Authoritative answers can be found from:
+200.98.187.194.in-addr.arpa	name = 194.187.98.200.webazilla.com.
+
+Authoritative answers can be found from:
+160.121.192.34.in-addr.arpa	name = ec2-34-192-121-160.compute-1.amazonaws.com.
+
+Authoritative answers can be found from:
+14.186.156.54.in-addr.arpa	name = ec2-54-156-186-14.compute-1.amazonaws.com.
+
+Authoritative answers can be found from:
+138.89.192.34.in-addr.arpa	name = ec2-34-192-89-138.compute-1.amazonaws.com.
+
+Authoritative answers can be found from:
+147.220.209.54.in-addr.arpa	name = ec2-54-209-220-147.compute-1.amazonaws.com.
+
+Authoritative answers can be found from:
+182.102.173.54.in-addr.arpa	name = ec2-54-173-102-182.compute-1.amazonaws.com.
+
+Authoritative answers can be found from:
+47.16.165.54.in-addr.arpa	name = ec2-54-165-16-47.compute-1.amazonaws.com.
+
+Authoritative answers can be found from:
+56.153.165.54.in-addr.arpa	name = ec2-54-165-153-56.compute-1.amazonaws.com.
+
+Authoritative answers can be found from:
+3.87.87.52.in-addr.arpa	name = ec2-52-87-87-3.compute-1.amazonaws.com.
+
+Authoritative answers can be found from:
+** server can't find f.2.0.1.5.a.6.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa: NXDOMAIN
+** server can't find c.6.1.c.c.9.6.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa: NXDOMAIN
+** server can't find 0.a.9.7.0.c.2.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa: NXDOMAIN
+** server can't find 3.0.4.4.2.c.2.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa: NXDOMAIN
+** server can't find 3.9.c.d.1.d.6.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa: NXDOMAIN
+** server can't find a.8.9.5.0.c.2.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa: NXDOMAIN
+** server can't find 0.f.1.1.f.a.6.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa: NXDOMAIN
+** server can't find c.b.2.2.e.a.6.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.f.0.0.a.d.6.0.4.2.ip6.arpa: NXDOMAIN
+67.12.217.172.in-addr.arpa	name = dfw28s05-in-f3.1e100.net.
+
+Authoritative answers can be found from:
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.6.1.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw28s05-in-x03.1e100.net.
+
+Authoritative answers can be found from:
+67.12.217.172.in-addr.arpa	name = dfw28s05-in-f3.1e100.net.
+
+Authoritative answers can be found from:
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.6.1.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw28s05-in-x03.1e100.net.
+
+Authoritative answers can be found from:
+** server can't find 63.148.215.104.in-addr.arpa: NXDOMAIN
+** server can't find 205.72.112.40.in-addr.arpa: NXDOMAIN
+** server can't find 179.161.77.13.in-addr.arpa: NXDOMAIN
+** server can't find 15.4.76.40.in-addr.arpa: NXDOMAIN
+** server can't find 201.200.113.40.in-addr.arpa: NXDOMAIN
+227.2.217.172.in-addr.arpa	name = dfw28s01-in-f3.1e100.net.
+
+Authoritative answers can be found from:
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.1.1.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw28s01-in-x03.1e100.net.
+
+Authoritative answers can be found from:
 ** server can't find 17.78.0.192.in-addr.arpa: NXDOMAIN
+** server can't find 9.78.0.192.in-addr.arpa: NXDOMAIN
 ** server can't find 157.255.56.123.in-addr.arpa: NXDOMAIN
 ** server can't find 1.2.f.7.e.4.6.7.8.f.0.c.e.2.f.d.0.0.4.0.8.3.0.0.a.0.0.4.8.0.4.2.ip6.arpa: NXDOMAIN
 ** server can't find 17.154.114.74.in-addr.arpa: NXDOMAIN
@@ -330,52 +331,42 @@ Authoritative answers can be found from:
 37.250.4.64.in-addr.arpa	name = paypal.com.
 
 Authoritative answers can be found from:
-137.6.217.172.in-addr.arpa	name = dfw25s16-in-f9.1e100.net.
-137.6.217.172.in-addr.arpa	name = dfw25s16-in-f137.1e100.net.
+137.193.58.216.in-addr.arpa	name = dfw25s34-in-f9.1e100.net.
+137.193.58.216.in-addr.arpa	name = atl14s08-in-f137.1e100.net.
 
 Authoritative answers can be found from:
-9.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.f.0.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw25s16-in-x09.1e100.net.
+9.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.8.0.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw25s34-in-x09.1e100.net.
 
 Authoritative answers can be found from:
 ** server can't find 193.48.101.151.in-addr.arpa: NXDOMAIN
-** server can't find 69.129.101.151.in-addr.arpa: NXDOMAIN
-** server can't find 69.193.101.151.in-addr.arpa: NXDOMAIN
 ** server can't find 69.1.101.151.in-addr.arpa: NXDOMAIN
 ** server can't find 69.65.101.151.in-addr.arpa: NXDOMAIN
+** server can't find 69.129.101.151.in-addr.arpa: NXDOMAIN
+** server can't find 69.193.101.151.in-addr.arpa: NXDOMAIN
 ** server can't find 250.132.11.198.in-addr.arpa: NXDOMAIN
-** server can't find 142.222.209.125.in-addr.arpa: NXDOMAIN
-** server can't find 200.195.130.223.in-addr.arpa: NXDOMAIN
 ** server can't find 141.222.209.125.in-addr.arpa: NXDOMAIN
+** server can't find 142.222.209.125.in-addr.arpa: NXDOMAIN
 ** server can't find 95.195.130.223.in-addr.arpa: NXDOMAIN
-13.155.20.217.in-addr.arpa	name = ip13.155.odnoklassniki.ru.
+** server can't find 200.195.130.223.in-addr.arpa: NXDOMAIN
+1.147.20.217.in-addr.arpa	name = ip1.147.odnoklassniki.ru.
 
 Authoritative answers can be found from:
-1.147.20.217.in-addr.arpa	name = ip1.147.odnoklassniki.ru.
+13.155.20.217.in-addr.arpa	name = ip13.155.odnoklassniki.ru.
 
 Authoritative answers can be found from:
 11.23.61.5.in-addr.arpa	name = ip11.23.odnoklassniki.ru.
 
 Authoritative answers can be found from:
-10.144.253.17.in-addr.arpa	name = www.icmoud.com.
-10.144.253.17.in-addr.arpa	name = icloud.com.cn.
-10.144.253.17.in-addr.arpa	name = icloud.com.
-10.144.253.17.in-addr.arpa	name = apple.com.
 10.144.253.17.in-addr.arpa	name = world-any.aaplimg.com.
+10.144.253.17.in-addr.arpa	name = icloud.com.
+10.144.253.17.in-addr.arpa	name = icloud.com.cn.
+10.144.253.17.in-addr.arpa	name = www.icmoud.com.
+10.144.253.17.in-addr.arpa	name = apple.com.
 
 Authoritative answers can be found from:
 4.114.82.140.in-addr.arpa	name = lb-140-82-114-4-iad.github.com.
 
 Authoritative answers can be found from:
-3.9.217.172.in-addr.arpa	name = dfw28s02-in-f3.1e100.net.
-
-Authoritative answers can be found from:
-3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.2.1.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw28s02-in-x03.1e100.net.
-
-Authoritative answers can be found from:
-** server can't find 147.49.13.111.in-addr.arpa: NXDOMAIN
-** server can't find 167.228.94.52.in-addr.arpa: NXDOMAIN
-** server can't find 248.225.94.52.in-addr.arpa: NXDOMAIN
-** server can't find 74.237.94.52.in-addr.arpa: NXDOMAIN
 163.14.217.172.in-addr.arpa	name = dfw28s22-in-f3.1e100.net.
 
 Authoritative answers can be found from:
@@ -383,60 +374,73 @@ Authoritative answers can be found from:
 3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.6.0.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw06s38-in-x03.1e100.net.
 
 Authoritative answers can be found from:
-** server can't find 151.210.48.199.in-addr.arpa: NXDOMAIN
-
-Authoritative answers can be found from:
-** server can't find 108.149.13.111.in-addr.arpa: NXDOMAIN
-** server can't find 63.98.193.118.in-addr.arpa: NXDOMAIN
-9.9.217.172.in-addr.arpa	name = dfw28s02-in-f9.1e100.net.
-
-Authoritative answers can be found from:
-9.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.2.1.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw28s02-in-x09.1e100.net.
-
-Authoritative answers can be found from:
-** server can't find 8.180.58.123.in-addr.arpa: NXDOMAIN
-** server can't find 7.180.58.123.in-addr.arpa: NXDOMAIN
+** server can't find 147.49.13.111.in-addr.arpa: NXDOMAIN
+** server can't find 167.228.94.52.in-addr.arpa: NXDOMAIN
+** server can't find 74.237.94.52.in-addr.arpa: NXDOMAIN
+** server can't find 248.225.94.52.in-addr.arpa: NXDOMAIN
 131.9.217.172.in-addr.arpa	name = dfw25s26-in-f3.1e100.net.
 
 Authoritative answers can be found from:
 3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.3.1.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw25s26-in-x03.1e100.net.
 
 Authoritative answers can be found from:
-163.68.250.142.in-addr.arpa	name = dfw25s41-in-f3.1e100.net.
+** server can't find 151.210.48.199.in-addr.arpa: NXDOMAIN
+** server can't find 63.98.193.118.in-addr.arpa: NXDOMAIN
 
 Authoritative answers can be found from:
-3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.1.0.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw25s41-in-x03.1e100.net.
+;; Got SERVFAIL reply from 192.168.0.1, trying next server
+** server can't find 108.149.13.111.in-addr.arpa: NXDOMAIN
+137.193.58.216.in-addr.arpa	name = dfw25s34-in-f9.1e100.net.
+137.193.58.216.in-addr.arpa	name = atl14s08-in-f137.1e100.net.
 
 Authoritative answers can be found from:
-53.93.13.31.in-addr.arpa	name = whatsapp-cdn-shv-02-dfw5.fbcdn.net.
+9.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.8.0.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw25s34-in-x09.1e100.net.
 
 Authoritative answers can be found from:
-7.6.1.0.0.0.0.0.c.0.0.b.e.c.a.f.6.c.1.0.4.3.2.f.0.8.8.2.3.0.a.2.ip6.arpa	name = whatsapp-cdn6-shv-02-dfw5.fbcdn.net.
+** server can't find 7.180.58.123.in-addr.arpa: NXDOMAIN
+** server can't find 8.180.58.123.in-addr.arpa: NXDOMAIN
+163.14.217.172.in-addr.arpa	name = dfw28s22-in-f3.1e100.net.
 
 Authoritative answers can be found from:
-** server can't find 115.116.95.52.in-addr.arpa: NXDOMAIN
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.6.0.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw28s22-in-x03.1e100.net.
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.6.0.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw06s38-in-x03.1e100.net.
+
+Authoritative answers can be found from:
+94.180.233.64.in-addr.arpa	name = on-in-f94.1e100.net.
+
+Authoritative answers can be found from:
+e.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.b.0.c.0.3.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = on-in-x5e.1e100.net.
+
+Authoritative answers can be found from:
+53.19.240.157.in-addr.arpa	name = whatsapp-cdn-shv-01-dfw5.fbcdn.net.
+
+Authoritative answers can be found from:
+7.6.1.0.0.0.0.0.c.0.0.b.e.c.a.f.6.c.0.0.4.3.2.f.0.8.8.2.3.0.a.2.ip6.arpa	name = whatsapp-cdn6-shv-01-dfw5.fbcdn.net.
+
+Authoritative answers can be found from:
 ** server can't find 67.120.95.52.in-addr.arpa: NXDOMAIN
+** server can't find 115.116.95.52.in-addr.arpa: NXDOMAIN
 ** server can't find 92.33.239.54.in-addr.arpa: NXDOMAIN
 ** server can't find 156.6.107.13.in-addr.arpa: NXDOMAIN
 ** server can't find 6.5.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.9.a.0.c.e.1.0.0.2.6.2.ip6.arpa: NXDOMAIN
-131.9.217.172.in-addr.arpa	name = dfw25s26-in-f3.1e100.net.
+163.14.217.172.in-addr.arpa	name = dfw28s22-in-f3.1e100.net.
 
 Authoritative answers can be found from:
-3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.3.1.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw25s26-in-x03.1e100.net.
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.6.0.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw06s38-in-x03.1e100.net.
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.6.0.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw28s22-in-x03.1e100.net.
 
 Authoritative answers can be found from:
 ** server can't find 154.65.225.124.in-addr.arpa: NXDOMAIN
-131.1.217.172.in-addr.arpa	name = dfw28s23-in-f3.1e100.net.
-131.1.217.172.in-addr.arpa	name = atl14s07-in-f131.1e100.net.
+67.12.217.172.in-addr.arpa	name = dfw28s05-in-f3.1e100.net.
 
 Authoritative answers can be found from:
-3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.7.1.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw28s23-in-x03.1e100.net.
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.6.1.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw28s05-in-x03.1e100.net.
 
 Authoritative answers can be found from:
-** server can't find 71.43.11.106.in-addr.arpa: NXDOMAIN
-** server can't find f.a.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.0.1.0.0.4.8.0.4.2.ip6.arpa: NXDOMAIN
+** server can't find 183.43.11.106.in-addr.arpa: NXDOMAIN
 ** server can't find 8.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.f.0.1.0.0.4.8.0.4.2.ip6.arpa: NXDOMAIN
 ** server can't find a.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.0.1.0.0.4.8.0.4.2.ip6.arpa: NXDOMAIN
+** server can't find f.a.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.f.0.1.0.0.4.8.0.4.2.ip6.arpa: NXDOMAIN
 ** server can't find d.f.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.f.0.1.0.0.4.8.0.4.2.ip6.arpa: NXDOMAIN
 234.16.237.133.in-addr.arpa	name = rakuten.co.jp.
 
@@ -444,35 +448,37 @@ Authoritative answers can be found from:
 129.237.82.208.in-addr.arpa	name = www.craigslist.org.
 
 Authoritative answers can be found from:
-** server can't find 102.39.239.54.in-addr.arpa: NXDOMAIN
 ** server can't find 34.120.95.52.in-addr.arpa: NXDOMAIN
 ** server can't find 185.108.32.176.in-addr.arpa: NXDOMAIN
+** server can't find 102.39.239.54.in-addr.arpa: NXDOMAIN
 ** server can't find 29.43.152.133.in-addr.arpa: NXDOMAIN
-3.9.217.172.in-addr.arpa	name = dfw28s02-in-f3.1e100.net.
+163.9.217.172.in-addr.arpa	name = dfw25s27-in-f3.1e100.net.
 
 Authoritative answers can be found from:
-3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.2.1.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw28s02-in-x03.1e100.net.
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.4.1.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw25s27-in-x03.1e100.net.
 
 Authoritative answers can be found from:
-** server can't find 42.216.191.118.in-addr.arpa: SERVFAIL
 ** server can't find 132.109.28.119.in-addr.arpa: NXDOMAIN
+;; Got SERVFAIL reply from 2600:1700:d730:c6d0::1, trying next server
 ** server can't find 57.216.191.118.in-addr.arpa: SERVFAIL
+;; Got SERVFAIL reply from 2600:1700:d730:c6d0::1, trying next server
+** server can't find 42.216.191.118.in-addr.arpa: SERVFAIL
 37.241.159.139.in-addr.arpa	name = ecs-139-159-241-37.compute.hwclouds-dns.com.
 
 Authoritative answers can be found from:
-188.70.3.119.in-addr.arpa	name = ecs-119-3-70-188.compute.hwclouds-dns.com.
-
-Authoritative answers can be found from:
-** server can't find 135.174.92.120.in-addr.arpa: NXDOMAIN
-** server can't find 97.78.92.120.in-addr.arpa: NXDOMAIN
-** server can't find 66.34.43.110.in-addr.arpa: NXDOMAIN
 64.238.3.119.in-addr.arpa	name = ecs-119-3-238-64.compute.hwclouds-dns.com.
 
 Authoritative answers can be found from:
+** server can't find 66.34.43.110.in-addr.arpa: NXDOMAIN
+** server can't find 135.174.92.120.in-addr.arpa: NXDOMAIN
+188.70.3.119.in-addr.arpa	name = ecs-119-3-70-188.compute.hwclouds-dns.com.
+
+Authoritative answers can be found from:
+** server can't find 97.78.92.120.in-addr.arpa: NXDOMAIN
 ** server can't find 1.248.125.162.in-addr.arpa: NXDOMAIN
 ** server can't find 1.0.8.f.d.7.2.a.0.0.0.0.0.0.0.0.1.0.0.0.0.4.0.6.0.0.1.0.0.2.6.2.ip6.arpa: NXDOMAIN
-** server can't find 193.119.108.202.in-addr.arpa: NXDOMAIN
 ** server can't find 194.119.108.202.in-addr.arpa: NXDOMAIN
+** server can't find 193.119.108.202.in-addr.arpa: NXDOMAIN
 254.210.82.192.in-addr.arpa	name = chi.outbrain.com.
 
 Authoritative answers can be found from:
@@ -482,92 +488,92 @@ Authoritative answers can be found from:
 107.108.23.103.in-addr.arpa	name = ip-103-23-108-107.static.pixnet.tw.
 
 Authoritative answers can be found from:
-** server can't find 198.132.11.198.in-addr.arpa: NXDOMAIN
 ** server can't find 142.101.204.205.in-addr.arpa: NXDOMAIN
-** server can't find 5.129.75.110.in-addr.arpa: NXDOMAIN
+** server can't find 198.132.11.198.in-addr.arpa: NXDOMAIN
 ** server can't find 5.139.75.110.in-addr.arpa: NXDOMAIN
-** server can't find 233.199.84.40.in-addr.arpa: NXDOMAIN
+** server can't find 5.129.75.110.in-addr.arpa: NXDOMAIN
 ** server can't find 109.167.178.52.in-addr.arpa: NXDOMAIN
-35.194.58.216.in-addr.arpa	name = dfw25s12-in-f35.1e100.net.
-35.194.58.216.in-addr.arpa	name = dfw25s12-in-f3.1e100.net.
-
-Authoritative answers can be found from:
-3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.2.0.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw25s12-in-x03.1e100.net.
-
-Authoritative answers can be found from:
-220.16.57.5.in-addr.arpa	name = www.booking.com.
-
-Authoritative answers can be found from:
-3.9.217.172.in-addr.arpa	name = dfw28s02-in-f3.1e100.net.
-
-Authoritative answers can be found from:
-3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.2.1.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw28s02-in-x03.1e100.net.
-
-Authoritative answers can be found from:
-** server can't find 12.13.21.216.in-addr.arpa: NXDOMAIN
-** server can't find 13.13.21.216.in-addr.arpa: NXDOMAIN
-151.8.108.202.IN-ADDR.ARPA	name = zz-8-151-a8.bta.net.cn.
-
-Authoritative answers can be found from:
-** server can't find 234.167.41.103.in-addr.arpa: NXDOMAIN
-** server can't find 171.34.239.54.in-addr.arpa: NXDOMAIN
-** server can't find 220.7.236.178.in-addr.arpa: NXDOMAIN
-** server can't find 58.33.239.54.in-addr.arpa: NXDOMAIN
-** server can't find 131.129.101.151.in-addr.arpa: NXDOMAIN
-** server can't find 131.193.101.151.in-addr.arpa: NXDOMAIN
-** server can't find 131.1.101.151.in-addr.arpa: NXDOMAIN
-** server can't find 131.65.101.151.in-addr.arpa: NXDOMAIN
-29.175.30.123.in-addr.arpa	name = coccoc.com.
-
-Authoritative answers can be found from:
-** server can't find 67.129.101.151.in-addr.arpa: NXDOMAIN
-** server can't find 67.193.101.151.in-addr.arpa: NXDOMAIN
-** server can't find 67.65.101.151.in-addr.arpa: NXDOMAIN
-** server can't find 67.1.101.151.in-addr.arpa: NXDOMAIN
-** server can't find 3.2.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.0.2.4.e.4.4.0.a.2.ip6.arpa: NXDOMAIN
-** server can't find 3.2.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.2.4.e.4.4.0.a.2.ip6.arpa: NXDOMAIN
-** server can't find 3.2.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.4.e.4.4.0.a.2.ip6.arpa: NXDOMAIN
-** server can't find 3.2.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.6.0.2.4.e.4.4.0.a.2.ip6.arpa: NXDOMAIN
-** server can't find 81.0.101.151.in-addr.arpa: NXDOMAIN
-** server can't find 81.192.101.151.in-addr.arpa: NXDOMAIN
-** server can't find 81.64.101.151.in-addr.arpa: NXDOMAIN
-** server can't find 81.128.101.151.in-addr.arpa: NXDOMAIN
-** server can't find 1.8.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.2.4.e.4.4.0.a.2.ip6.arpa: NXDOMAIN
-** server can't find 1.8.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.6.0.2.4.e.4.4.0.a.2.ip6.arpa: NXDOMAIN
-** server can't find 1.8.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.0.2.4.e.4.4.0.a.2.ip6.arpa: NXDOMAIN
-** server can't find 1.8.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.4.e.4.4.0.a.2.ip6.arpa: NXDOMAIN
-** server can't find 167.66.101.151.in-addr.arpa: NXDOMAIN
-** server can't find 167.130.101.151.in-addr.arpa: NXDOMAIN
-** server can't find 167.194.101.151.in-addr.arpa: NXDOMAIN
-** server can't find 167.2.101.151.in-addr.arpa: NXDOMAIN
-** server can't find 194.192.101.151.in-addr.arpa: NXDOMAIN
-** server can't find 194.64.101.151.in-addr.arpa: NXDOMAIN
-** server can't find 194.0.101.151.in-addr.arpa: NXDOMAIN
-** server can't find 194.128.101.151.in-addr.arpa: NXDOMAIN
-** server can't find 4.9.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.6.0.2.4.e.4.4.0.a.2.ip6.arpa: NXDOMAIN
-** server can't find 4.9.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.4.e.4.4.0.a.2.ip6.arpa: NXDOMAIN
-** server can't find 4.9.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.0.2.4.e.4.4.0.a.2.ip6.arpa: NXDOMAIN
-** server can't find 4.9.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.2.4.e.4.4.0.a.2.ip6.arpa: NXDOMAIN
+** server can't find 233.199.84.40.in-addr.arpa: NXDOMAIN
 227.2.217.172.in-addr.arpa	name = dfw28s01-in-f3.1e100.net.
 
 Authoritative answers can be found from:
 3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.1.1.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw28s01-in-x03.1e100.net.
 
 Authoritative answers can be found from:
-227.1.217.172.in-addr.arpa	name = dfw25s25-in-f3.1e100.net.
-227.1.217.172.in-addr.arpa	name = lax17s02-in-f3.1e100.net.
+220.16.57.5.in-addr.arpa	name = www.booking.com.
 
 Authoritative answers can be found from:
-3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.e.0.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw25s25-in-x03.1e100.net.
+94.169.233.64.in-addr.arpa	name = ok-in-f94.1e100.net.
+
+Authoritative answers can be found from:
+e.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.0.c.0.3.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = ok-in-x5e.1e100.net.
+
+Authoritative answers can be found from:
+** server can't find 12.13.21.216.in-addr.arpa: NXDOMAIN
+** server can't find 13.13.21.216.in-addr.arpa: NXDOMAIN
+151.8.108.202.in-addr.arpa	name = zz-8-151-a8.bta.net.cn.
+
+Authoritative answers can be found from:
+** server can't find 234.167.41.103.in-addr.arpa: NXDOMAIN
+** server can't find 171.34.239.54.in-addr.arpa: NXDOMAIN
+** server can't find 58.33.239.54.in-addr.arpa: NXDOMAIN
+** server can't find 220.7.236.178.in-addr.arpa: NXDOMAIN
+** server can't find 131.193.101.151.in-addr.arpa: NXDOMAIN
+** server can't find 131.1.101.151.in-addr.arpa: NXDOMAIN
+** server can't find 131.65.101.151.in-addr.arpa: NXDOMAIN
+** server can't find 131.129.101.151.in-addr.arpa: NXDOMAIN
+29.175.30.123.in-addr.arpa	name = coccoc.com.
+
+Authoritative answers can be found from:
+** server can't find 67.129.101.151.in-addr.arpa: NXDOMAIN
+** server can't find 67.193.101.151.in-addr.arpa: NXDOMAIN
+** server can't find 67.1.101.151.in-addr.arpa: NXDOMAIN
+** server can't find 67.65.101.151.in-addr.arpa: NXDOMAIN
+** server can't find 3.2.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.2.4.e.4.4.0.a.2.ip6.arpa: NXDOMAIN
+** server can't find 3.2.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.4.e.4.4.0.a.2.ip6.arpa: NXDOMAIN
+** server can't find 3.2.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.6.0.2.4.e.4.4.0.a.2.ip6.arpa: NXDOMAIN
+** server can't find 3.2.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.0.2.4.e.4.4.0.a.2.ip6.arpa: NXDOMAIN
+** server can't find 81.192.101.151.in-addr.arpa: NXDOMAIN
+** server can't find 81.64.101.151.in-addr.arpa: NXDOMAIN
+** server can't find 81.0.101.151.in-addr.arpa: NXDOMAIN
+** server can't find 81.128.101.151.in-addr.arpa: NXDOMAIN
+** server can't find 1.8.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.0.2.4.e.4.4.0.a.2.ip6.arpa: NXDOMAIN
+** server can't find 1.8.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.2.4.e.4.4.0.a.2.ip6.arpa: NXDOMAIN
+** server can't find 1.8.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.6.0.2.4.e.4.4.0.a.2.ip6.arpa: NXDOMAIN
+** server can't find 1.8.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.4.e.4.4.0.a.2.ip6.arpa: NXDOMAIN
+** server can't find 167.66.101.151.in-addr.arpa: NXDOMAIN
+** server can't find 167.130.101.151.in-addr.arpa: NXDOMAIN
+** server can't find 167.2.101.151.in-addr.arpa: NXDOMAIN
+** server can't find 167.194.101.151.in-addr.arpa: NXDOMAIN
+** server can't find 194.192.101.151.in-addr.arpa: NXDOMAIN
+** server can't find 194.0.101.151.in-addr.arpa: NXDOMAIN
+** server can't find 194.64.101.151.in-addr.arpa: NXDOMAIN
+** server can't find 194.128.101.151.in-addr.arpa: NXDOMAIN
+** server can't find 4.9.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4.0.2.4.e.4.4.0.a.2.ip6.arpa: NXDOMAIN
+** server can't find 4.9.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.4.e.4.4.0.a.2.ip6.arpa: NXDOMAIN
+** server can't find 4.9.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.2.4.e.4.4.0.a.2.ip6.arpa: NXDOMAIN
+** server can't find 4.9.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.6.0.2.4.e.4.4.0.a.2.ip6.arpa: NXDOMAIN
+163.68.250.142.in-addr.arpa	name = dfw25s41-in-f3.1e100.net.
+
+Authoritative answers can be found from:
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.1.0.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw25s41-in-x03.1e100.net.
+
+Authoritative answers can be found from:
+99.194.58.216.in-addr.arpa	name = dfw06s48-in-f3.1e100.net.
+99.194.58.216.in-addr.arpa	name = dfw06s48-in-f99.1e100.net.
+
+Authoritative answers can be found from:
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.c.0.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw06s48-in-x03.1e100.net.
 
 Authoritative answers can be found from:
 174.60.236.23.in-addr.arpa	name = 174.60.236.23.bc.googleusercontent.com.
 
 Authoritative answers can be found from:
-163.9.217.172.in-addr.arpa	name = dfw25s27-in-f3.1e100.net.
+99.194.58.216.in-addr.arpa	name = dfw06s48-in-f3.1e100.net.
+99.194.58.216.in-addr.arpa	name = dfw06s48-in-f99.1e100.net.
 
 Authoritative answers can be found from:
-3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.4.1.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw25s27-in-x03.1e100.net.
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.c.0.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw06s48-in-x03.1e100.net.
 
 Authoritative answers can be found from:
 249.196.135.66.in-addr.arpa	name = ru.ebay.com.
@@ -577,15 +583,14 @@ Authoritative answers can be found from:
 
 Authoritative answers can be found from:
 ** server can't find 137.241.195.91.in-addr.arpa: NXDOMAIN
-5.90.192.186.in-addr.arpa	name = 186-192-90-5.prt.globo.com.
-5.90.192.186.in-addr.arpa	name = redirect.globo.com.
+12.90.192.186.in-addr.arpa	name = 186-192-90-12.prt.globo.com.
 
 Authoritative answers can be found from:
-35.194.58.216.in-addr.arpa	name = dfw25s12-in-f35.1e100.net.
-35.194.58.216.in-addr.arpa	name = dfw25s12-in-f3.1e100.net.
+99.194.58.216.in-addr.arpa	name = dfw06s48-in-f3.1e100.net.
+99.194.58.216.in-addr.arpa	name = dfw06s48-in-f99.1e100.net.
 
 Authoritative answers can be found from:
-3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.2.0.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw25s12-in-x03.1e100.net.
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.c.0.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw06s48-in-x03.1e100.net.
 
 Authoritative answers can be found from:
 149.35.147.200.in-addr.arpa	name = 200-147-35-149-149.static.uol.com.br.
@@ -594,57 +599,56 @@ Authoritative answers can be found from:
 ** server can't find 5.4.0.0.f.f.f.f.f.f.f.f.f.f.f.f.1.0.4.0.1.0.1.3.c.9.4.0.4.0.8.2.ip6.arpa: NXDOMAIN
 ** server can't find 6.3.0.0.f.f.f.f.f.f.f.f.f.f.f.f.1.0.4.0.2.0.1.3.c.9.4.0.4.0.8.2.ip6.arpa: NXDOMAIN
 ** server can't find 132.12.89.185.in-addr.arpa: NXDOMAIN
-131.1.217.172.in-addr.arpa	name = dfw28s23-in-f3.1e100.net.
+35.194.58.216.in-addr.arpa	name = dfw25s12-in-f3.1e100.net.
+35.194.58.216.in-addr.arpa	name = dfw25s12-in-f35.1e100.net.
+
+Authoritative answers can be found from:
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.2.0.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw25s12-in-x03.1e100.net.
+
+Authoritative answers can be found from:
+163.68.250.142.in-addr.arpa	name = dfw25s41-in-f3.1e100.net.
+
+Authoritative answers can be found from:
+3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.1.0.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw25s41-in-x03.1e100.net.
+
+Authoritative answers can be found from:
 131.1.217.172.in-addr.arpa	name = atl14s07-in-f131.1e100.net.
+131.1.217.172.in-addr.arpa	name = dfw28s23-in-f3.1e100.net.
 
 Authoritative answers can be found from:
 3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.7.1.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw28s23-in-x03.1e100.net.
 
 Authoritative answers can be found from:
-131.193.58.216.in-addr.arpa	name = dfw25s34-in-f3.1e100.net.
-131.193.58.216.in-addr.arpa	name = atl14s08-in-f131.1e100.net.
+46.194.58.216.in-addr.arpa	name = dfw25s12-in-f14.1e100.net.
+46.194.58.216.in-addr.arpa	name = dfw25s12-in-f46.1e100.net.
 
 Authoritative answers can be found from:
-3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.8.0.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw25s34-in-x03.1e100.net.
-
-Authoritative answers can be found from:
-131.193.58.216.in-addr.arpa	name = dfw25s34-in-f3.1e100.net.
-131.193.58.216.in-addr.arpa	name = atl14s08-in-f131.1e100.net.
-
-Authoritative answers can be found from:
-3.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.8.0.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw25s34-in-x03.1e100.net.
-
-Authoritative answers can be found from:
-238.1.217.172.in-addr.arpa	name = lax17s02-in-f14.1e100.net.
-238.1.217.172.in-addr.arpa	name = dfw25s25-in-f14.1e100.net.
-
-Authoritative answers can be found from:
-E.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.e.0.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw25s25-in-x0e.1e100.net.
+e.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.2.0.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw25s12-in-x0e.1e100.net.
 
 Authoritative answers can be found from:
 140.141.180.213.in-addr.arpa	name = sg1.any.onet.pl.
 
 Authoritative answers can be found from:
-226.1.217.172.in-addr.arpa	name = dfw25s25-in-f2.1e100.net.
-226.1.217.172.in-addr.arpa	name = lax17s02-in-f2.1e100.net.
+66.194.58.216.in-addr.arpa	name = dfw25s13-in-f2.1e100.net.
+66.194.58.216.in-addr.arpa	name = dfw25s13-in-f66.1e100.net.
 
 Authoritative answers can be found from:
-101.242.204.23.in-addr.arpa	name = a23-204-242-101.deploy.static.akamaitechnologies.com.
+215.28.2.23.in-addr.arpa	name = a23-2-28-215.deploy.static.akamaitechnologies.com.
 
 Authoritative answers can be found from:
-1.9.217.172.in-addr.arpa	name = dfw28s02-in-f1.1e100.net.
+161.9.217.172.in-addr.arpa	name = dfw25s27-in-f1.1e100.net.
 
 Authoritative answers can be found from:
-1.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.2.1.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw28s02-in-x01.1e100.net.
+1.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.4.1.8.0.0.0.0.4.0.b.8.f.7.0.6.2.ip6.arpa	name = dfw25s27-in-x01.1e100.net.
 
 Authoritative answers can be found from:
-153.32.13.76.in-addr.arpa	name = media-router-abu71.prod.media.vip.bf1.yahoo.com.
-
-Authoritative answers can be found from:
-0.0.0.9.0.0.0.0.0.0.0.0.0.0.0.0.4.0.7.1.4.2.1.0.8.9.9.4.1.0.0.2.ip6.arpa	name = media-router-abu71.prod.media.vip.bf1.yahoo.com.
+22.231.195.67.in-addr.arpa	name = media-router-abu71.prod.media.vip.gq1.yahoo.com.
 
 Authoritative answers can be found from:
 0.0.0.8.0.0.0.0.0.0.0.0.0.0.0.0.4.0.7.0.4.2.0.0.8.9.9.4.1.0.0.2.ip6.arpa	name = media-router-abu71.prod.media.vip.gq1.yahoo.com.
+
+Authoritative answers can be found from:
+0.0.0.9.0.0.0.0.0.0.0.0.0.0.0.0.4.0.7.1.4.2.1.0.8.9.9.4.1.0.0.2.ip6.arpa	name = media-router-abu71.prod.media.vip.bf1.yahoo.com.
 
 Authoritative answers can be found from:
 
