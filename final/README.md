@@ -1,21 +1,25 @@
-I copied over the files:
-docker cp wuserver.py final_node00_1:/wuserver.py
-docker cp wuclient.py final_node01_1:/wuclient.py
+# Networking Final Project Fall 2020
+#### Catherine Lukner
+  
+### Part 1
+I used the following commands to do packet capturing with tcpdump on the weather updates exercsie:
+tcpdump -s 0 -i eth0 -w wuserver.pcap # On node00
+tcpdump -s 0 -i eth0 -w wuclient.pcap # On node01
 
-To do packet capture:
-tcpdump -s 0 -i eth0 -w wuserver.pcap
-tcpdump -s 0 -i eth0 -w wuclient.pcap
+I used the following commands to do packet capturing with tcpdump on the weather updates exercsie:
+tcpdump -s 0 -i eth0 -w taskvent.pcap # On node00
+tcpdump -s 0 -i eth0 -w taskwork.pcap # On node01
+tcpdump -s 0 -i eth0 -w tasksink.pcap # On node02
 
-docker cp taskvent.py final_node00_1:/taskvent.py
-docker cp taskwork.py final_node01_1:/taskwork.py
-docker cp tasksink.py final_node02_1:/tasksink.py
+### Part 2
 
-docker cp final_node00_1:/taskvent.pcap taskvent.pcap
-docker cp final_node01_1:/taskwork.pcap taskwork.pcap
-docker cp final_node02_1:/tasksink.pcap tasksink.pcap
-
-Combined everything using:
+To combine everything into a single file, I used mergecap in the following command:
+```bash
 mergecap -w full-take.pcap taskvent.pcap taskwork.pcap tasksink.pcap wuserver.pcap wuclient.pcap
+```
 
-To read the pcap in a friendly format, I ran the following command:
-tcpdump -qns 0 -X -r serverfault_request.pcap
+To parse out the parts relevant to the weather and task exercises, I used editcap to filter by packet number. I ran the following bash commands to achieve this:
+```bash
+editcap -r full-take.pcap weather.pcap 1-225
+editcap -r full-take.pcap task.pcap 226-14776
+```
