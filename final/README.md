@@ -1,15 +1,19 @@
 # Networking Final Project Fall 2020
-#### Catherine Lukner
+## Author: Catherine Lukner
   
 ### Part 1
 I used the following commands to do packet capturing with tcpdump on the weather updates exercsie:
+```bash
 tcpdump -s 0 -i eth0 -w wuserver.pcap # On node00
 tcpdump -s 0 -i eth0 -w wuclient.pcap # On node01
+```
 
 I used the following commands to do packet capturing with tcpdump on the weather updates exercsie:
+```bash
 tcpdump -s 0 -i eth0 -w taskvent.pcap # On node00
 tcpdump -s 0 -i eth0 -w taskwork.pcap # On node01
 tcpdump -s 0 -i eth0 -w tasksink.pcap # On node02
+```
 
 ### Part 2
 
